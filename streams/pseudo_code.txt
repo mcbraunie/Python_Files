@@ -1,0 +1,6 @@
+1: for x in total stream (read 2x)
+2: int(x); add value to running total
+3: if running total >= 200, return # of times addition took place
+	(for each addition, a count +1)
+4: if running total !> | != 200, return count of 2-digit numbers
+5: if - by count 10 - runnint total != 200, break and return 10 
